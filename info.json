@@ -1,0 +1,758 @@
+{
+  "company": {
+    "CompanyName": "APPRICOD TECHNOLOGIES",
+    "WelcomeMessage": "WELCOME ",
+    "Heading": ""
+  },
+
+  "menu": {
+    "heading": "CONTENTS",
+    "items": [
+      { "item": "Take Assessment" },
+      { "item": "Rules" },
+      { "item": "About Author" },
+      { "item": "Exit" }
+    ]
+  },
+
+  "patterns": {
+    "u1": "------------------",
+    "u2": "******************",
+    "u3": "##################"
+  },
+
+  "dialogues": {
+    "d1": "Lets Start The Assessment",
+    "d2": "Right",
+    "d3": "Wrong"
+  },
+
+  "questions": [
+    {
+      "easy": [
+        {
+          "q": {
+            "ino": "0",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "1",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "2",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "3",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "4",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "5",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "6",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "7",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "8",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "9",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "10",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "11",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "12",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "13",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "14",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "15",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "16",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "17",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "18",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "19",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        }
+      ],
+      "marks": "3"
+    },
+    {
+      "medium": [
+        {
+          "q": {
+            "ino": "0",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "1",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "2",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "3",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "4",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "5",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "6",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "7",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "8",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "9",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "10",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "11",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "12",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "13",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "14",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "15",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "16",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "17",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "18",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "19",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        }
+      ],
+      "marks": "5"
+    },
+
+    {
+      "hard": [
+        {
+          "q": {
+            "ino": "0",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "1",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "2",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "3",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "4",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "5",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "6",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "7",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "8",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        },
+        {
+          "q": {
+            "ino": "9",
+            "question": "Which one is protocol in https://www.facebook.com",
+            "answer": "https",
+            "topic": "",
+            "options": [
+              { "option": "https" },
+              { "option": "www" },
+              { "option": "facebook" },
+              { "option": "com" }
+            ]
+          }
+        }
+      ],
+      "marks": "10"
+    }
+  ],
+  "rules": [
+    { "rule": "Attempting a question is necessary" },
+    { "rule": "Each Question carry some marks which are displayed beside it" },
+    {
+      "rule": "Use of any unfair means during solving the questions in strictly prohibited"
+    },
+    { "rule": "There is no negative marking" },
+    { "rule": "The result will be shown in the end with a graph" }
+  ],
+  "author": "This system is designed by Mr. Akshat Pande while being a part of the Hackathon \"GAME OF CODES\" aranged by ilrnn"
+}
